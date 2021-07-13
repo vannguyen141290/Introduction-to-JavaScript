@@ -60,7 +60,7 @@ Do the following:
    3. Multiply a and b and return the answer
 */
 
-function multiply(/*add your code here*/){
+function multiply(/*make some changesadd your code here*/){
   /*add your code here*/
 }
 
